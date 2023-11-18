@@ -1,0 +1,43 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: rgb(176, 222, 193)
+}
+
+header .nav .nav-link {
+    color: black;
+}
+
+header .nav .nav-link:hover {
+    color: black;
+}
+
+.carousel-item img {
+    height: 740px;
+}
+
+.card .btn {
+    background-color: rgba(176, 222, 193, 0.199)
+}
+
+.card .btn:hover {
+    background-color: rgb(176, 222, 193);
+}
+
+.cor-de-fundo {
+    background-color: rgba(176, 222, 193, 0.199)
+}
+
+
+@media (max-width:767px) {
+    .carousel-item img {
+        height: 260px;
+    }
+    }
+
+
+
+
+
